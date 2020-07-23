@@ -9,7 +9,7 @@
 
 using std::pair;
 using std::string;
-using std::to_string;
+//using std::to_string;
 
 template <class T>
 class AvlNode : public BinaryNode<T, AvlNode<T> >{
@@ -46,20 +46,20 @@ public:
     inline int GetCode(){
         return _balance_code;
     }
-
-    string ToString(){
-        string result="{";
-
-        int left_v = -1;
-        int right_v = -1;
-        if(this->LeftChild() != NULL)
-            left_v = this->LeftChild()->GetValue();
-
-        if(this->RightChild() != NULL)
-            right_v = this->RightChild()->GetValue();
-
-        return result + to_string(left_v) + " " + to_string(this->GetValue()) + " " + to_string(right_v) + "}" +to_string(_balance_code);
-    }
+//
+//    string ToString(){
+//        string result="{";
+//
+//        int left_v = -1;
+//        int right_v = -1;
+//        if(this->LeftChild() != NULL)
+//            left_v = this->LeftChild()->GetValue();
+//
+//        if(this->RightChild() != NULL)
+//            right_v = this->RightChild()->GetValue();
+//
+//        return result + to_string(left_v) + " " + to_string(this->GetValue()) + " " + to_string(right_v) + "}" +to_string(_balance_code);
+//    }
 
 //    void SetChildHeight(pair<int, int>& new_heights){
 //        _child_heights.first=new_heights.first;

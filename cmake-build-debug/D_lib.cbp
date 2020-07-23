@@ -8,43 +8,43 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test_R">
-				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/test_R" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/test_R" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/./core"/>
+					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/./core"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
@@ -54,20 +54,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_R"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_R"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test_R/fast">
-				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/test_R" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/test_R" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/./core"/>
+					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/./core"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
@@ -77,20 +77,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_R/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_R/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test">
-				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/./core"/>
+					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/./core"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
@@ -100,20 +100,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test/fast">
-				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug"/>
+				<Option output="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/./core"/>
+					<Add directory="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/./core"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
@@ -123,20 +123,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/apps/test.cpp">
+		<Unit filename="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/apps/test.cpp">
 			<Option target="test"/>
 		</Unit>
-		<Unit filename="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/apps/test_R.cpp">
+		<Unit filename="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/apps/test_R.cpp">
 			<Option target="test_R"/>
 		</Unit>
-		<Unit filename="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/CMakeLists.txt">
+		<Unit filename="/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

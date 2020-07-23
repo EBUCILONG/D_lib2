@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2
 -- The C compiler identification is AppleClang 10.0.0.10001044
 -- The CXX compiler identification is AppleClang 10.0.0.10001044
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug
+-- Build files have been written to: /Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug

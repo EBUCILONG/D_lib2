@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/apps/test.cpp" "/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/test_lib_CurrentFastWithoutHeu/cmake-build-debug/CMakeFiles/test.dir/apps/test.cpp.o"
+  "/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/apps/test.cpp" "/Users/oruqimaru/Desktop/PHD/CPP_item/past_version/D_lib2/cmake-build-debug/CMakeFiles/test.dir/apps/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

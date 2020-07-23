@@ -40,27 +40,27 @@ public:
 
     }
 
-    void ShowTree(){
-        AvlNode<T>* pivot = this->_root;
-
-        queue<AvlNode<T>*> pipe;
-        pipe.push(pivot);
-        if(pivot == NULL)
-            return;
-        while(true){
-            if(pipe.size() == 0)
-                return;
-
-            pivot = pipe.front();
-            cout << pivot->ToString() << endl;
-            pipe.pop();
-            if(pivot->LeftChild() != NULL)
-                pipe.push(pivot->LeftChild());
-
-            if(pivot->RightChild() != NULL)
-                pipe.push(pivot->RightChild());
-        }
-    }
+//    void ShowTree(){
+//        AvlNode<T>* pivot = this->_root;
+//
+//        queue<AvlNode<T>*> pipe;
+//        pipe.push(pivot);
+//        if(pivot == NULL)
+//            return;
+//        while(true){
+//            if(pipe.size() == 0)
+//                return;
+//
+//            pivot = pipe.front();
+//            cout << pivot->ToString() << endl;
+//            pipe.pop();
+//            if(pivot->LeftChild() != NULL)
+//                pipe.push(pivot->LeftChild());
+//
+//            if(pivot->RightChild() != NULL)
+//                pipe.push(pivot->RightChild());
+//        }
+//    }
 
 //    int GetHeight(){
 //        int left = *(this->_root->GetChildHeight());
